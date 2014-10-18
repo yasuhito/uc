@@ -12,7 +12,7 @@ class Multiply < Struct.new(:left, :right)
       Number.new(left.value * right.value)
     end
   end
-  
+
   def inspect
     "<<#{self}>>"
   end
