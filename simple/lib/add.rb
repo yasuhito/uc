@@ -1,3 +1,5 @@
+require 'number'
+
 class Add < Struct.new(:left, :right)
   def reducible?
     true

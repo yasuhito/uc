@@ -1,5 +1,4 @@
 require 'add'
-require 'number'
 
 describe Add do
   context 'without reducible subexpressions' do
