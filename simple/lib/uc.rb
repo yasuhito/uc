@@ -1,3 +1,3 @@
-require 'number'
 require 'add'
+require 'boolean'
 require 'multiply'
