@@ -1,3 +1,5 @@
+require 'number'
+
 class Multiply < Struct.new(:left, :right)
   def reducible?
     true
