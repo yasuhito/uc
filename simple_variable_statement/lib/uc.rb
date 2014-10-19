@@ -1,4 +1,5 @@
 require 'add'
+require 'assign'
 require 'less_than'
 require 'machine'
 require 'multiply'
