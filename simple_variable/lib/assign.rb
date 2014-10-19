@@ -1,3 +1,5 @@
+require 'do_nothing'
+
 class Assign < Struct.new(:name, :expression)
   def reducible?
     true
